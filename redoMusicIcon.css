@@ -1,6 +1,6 @@
 @font-face {
     font-family: "bravura";
-    src: url("/fonts/BravuraText.otf")/* need to add BravuraText.otf font file to fonts folder */
+    src: url("/fonts/BravuraText.ttf")/* need to add BravuraText.otf font file to fonts folder */
 }
 
 .icon-music::before {
