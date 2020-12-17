@@ -6,9 +6,9 @@
 .icon-music::before {
     content: "♫";
     font-family: "bravura";
-    font-size: 1.8rem !important;
+    font-size: 2.4rem !important;
     position: relative;
-    top: .25rem;
+    top: .1rem;
 }
 
 .icon-music-lesson {
